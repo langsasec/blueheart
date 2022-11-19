@@ -34,13 +34,13 @@ https://www.bilibili.com/video/BV1Se4y147N7
 2. 中午做饭
 3. 下午打游戏
 
-### 代码块
+### 代码块（包含dark(默认)和light两个）
 
 对于从事 IT 行业的人来说，优秀的代码块样式估计是挑选主题的标准之一，代码块如下：
 
-``` typescript
+``` javascript
 const name = 123;
-function myFunc (name = '') {
+function myFunc (name = 'langsa') {
   console.log(name);
 }
 
@@ -74,3 +74,9 @@ process.env.NODE_ENV
 ![image-20221025173159373](https://i0.hdslb.com/bfs/album/b10cc1986950b3bd38369afdf4717b37b955bb96.png)
 
 ![image-20221025173344545](https://i0.hdslb.com/bfs/album/94ac64dc81399357c111f6b1294fe1e891212930.png)
+
+## 新增Blueheart_light
+
+将代码块变为light风格
+
+![image-20221119232912392](C:\Users\langs\AppData\Roaming\Typora\typora-user-images\image-20221119232912392.png)
